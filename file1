@@ -2,5 +2,9 @@
 sample text
 
 Heloo world
+<<<<<<< HEAD
 new changes in master after stage
 one more version changes before stage
+=======
+this is staging branch changes
+>>>>>>> stage
